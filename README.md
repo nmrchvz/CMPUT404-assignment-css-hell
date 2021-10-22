@@ -19,7 +19,6 @@ Part 1 Modifications
 - Theme paragraphs, header tags, images and images captions with the specific colour scheme in the .css file 
 - Changed indentation and alignment of the text
 - Modified the hypertext links to redirect locally
-- Commented out some of the class tags that were describing the gutenburg eBook for a cleaner eBook
 - Added some `<hr>` tags to show when the eBook begins and ends
 
 References

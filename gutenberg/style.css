@@ -25,9 +25,17 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Style Images */
 .fig {
-    width: 35%;
+    width: 15%;
 }
-
+.c1 {
+    text-align: center;
+    font-family: Serif;
+    font-size: 1em;
+    text-indent: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    color: #7a5636;
+}
 div.fig { 
     display:block;
     margin:0 auto;
